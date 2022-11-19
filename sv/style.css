@@ -1,0 +1,43 @@
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    z-index: 1;
+}
+.img-tr{
+    height: 40px;
+    width: 40px;
+}
+.redes{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;   
+}
+.pg-drt{
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    text-decoration: none;
+}
+.aña{
+    filter: brightness(70%);
+    color: white;
+}
+.nav-item{
+    margin: 10px;
+}
+
+
+
+
+/* Hover */
+.redes:hover{
+    filter: brightness(70%);
+}
+.pg-drt:hover{
+    filter: brightness(70%);
+}
+.nav-item:hover{
+    filter: brightness(70%);
+}
